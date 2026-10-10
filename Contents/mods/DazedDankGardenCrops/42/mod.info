@@ -1,0 +1,16 @@
+name=Dazed Dank: Garden Crops
+id=DazedDankGardenCrops
+require=DazedDank
+author=Dazedgenie
+description=Grow vanilla crops in Dazed Dank's grow bags, DWC buckets, RDWC sites and flood tables. Tomatoes, lettuce, herbs and the rest grow by vanilla's rules, watered by hand in soil or from the reservoir in hydro. Needs Dazed Dank.
+modversion=0.1.0
+poster=poster.png
+versionMin=42.0.0
+tiledef=dazeddank_gardencrops_01 7425
+pack=dazeddank_gardencrops_01
+tiledef=dazeddank_gardencrops_02 7426
+pack=dazeddank_gardencrops_02
+tiledef=dazeddank_gardencrops_03 7427
+pack=dazeddank_gardencrops_03
+tiledef=dazeddank_gardencrops_04 7428
+pack=dazeddank_gardencrops_04
