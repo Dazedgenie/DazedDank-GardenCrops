@@ -3,7 +3,7 @@ id=3817439351
 title=Dazed Dank: Garden Crops
 description=[b]Disclaimer: this mod was made with AI assistance.[/b] If you're not comfortable with that, please stop reading here.
 description=
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/banner.jpg[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/banner.jpg?v=2[/img]
 description=
 description=An add-on for [b]Dazed Dank[/b]. With it, Dank's grow bags, DWC buckets, RDWC sites and flood tables take vanilla crops as well as cannabis. Tomatoes, lettuce, herbs and the rest grow by vanilla's rules: water them by hand in a bag, or let the reservoir water them in hydro, where they grow a little faster.
 description=
@@ -14,8 +14,8 @@ description=[tr][td][b]Multiplayer[/b][/td][td]Yes. The server and every player 
 description=[tr][td][b]Mod ID[/b][/td][td]DazedDankGardenCrops[/td][/tr]
 description=[/table]
 description=
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-where.png[/img]
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/where.png[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-where.png?v=2[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/where.png?v=2[/img]
 description=[list]
 description=[*]Every vanilla crop, 55 in all, grows in a [b]Small, Large or XL Grow Bag[/b]. Fill the bag with potting soil first, as for cannabis.
 description=[*]Hydro takes 37 of them: herbs, leafy greens, tomatoes, peppers, strawberries, flowers and more. That means [b]DWC and XL DWC buckets[/b], [b]RDWC sites[/b] and [b]flood tables[/b]. As for cannabis, put the rockwool or clay pebbles in and fill the reservoir before you sow.
@@ -23,8 +23,8 @@ description=[*]Root, bulb, sprawling and grain crops need soil, so hydro refuses
 description=[*][b]Sow Seed[/b] on a container lists the seeds you carry that can grow there.
 description=[/list]
 description=
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-grow.png[/img]
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/grow.png[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-grow.png?v=2[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/grow.png?v=2[/img]
 description=[list]
 description=[*]Crops grow by vanilla's own rules. Dazed Dank does the growing; this add-on says which crops go where and supplies the plants.
 description=[*]In a grow bag you water by hand, like a vanilla plot.
@@ -32,29 +32,29 @@ description=[*]In hydro the plant drinks from the reservoir, about 0.3 L an hour
 description=[*]In hydro each growth step takes 15% less time.
 description=[/list]
 description=
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-harvest.png[/img]
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/indoors.png[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-harvest.png?v=2[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/indoors.png?v=2[/img]
 description=[list]
 description=[*]Harvesting a one-time crop leaves the container empty and ready to sow again. Crops that regrow keep going after you pick them, as they do in a vanilla plot. A plant that rots away empties the container too.
 description=[*]With vanilla's [b]Kill Crops Grown Inside[/b] sandbox option on, a powered grow lamp that reaches the plant, or a Dank grow room, keeps it alive indoors.
 description=[/list]
 description=
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-plants.png[/img]
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/plants.png[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-plants.png?v=2[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/plants.png?v=2[/img]
 description=[list]
 description=[*]Vanilla paints the tilled furrow into every crop sprite. Here each crop is drawn without its soil, as one plant that stands in the container.
 description=[*]Every growth stage is there, with its sick, dying and dead looks too.
 description=[*]The plants are cut from Project Zomboid's own crop art.
 description=[/list]
 description=
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-compat.png[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-compat.png?v=2[/img]
 description=[list]
 description=[*]Build 42 only. Needs [b]Dazed Dank[/b] 0.56 or later.
 description=[*]Without this add-on, Dank's containers take cannabis only. Cannabis grows the same either way.
 description=[*]Vanilla crops only. Crops from other mods have no plant here and can't go in Dank's containers.
 description=[/list]
 description=
-description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-help.png[/img]
+description=[img]https://raw.githubusercontent.com/Dazedgenie/Dazed-Workshop/main/GardenCrops/images/h-help.png?v=2[/img]
 description=Post in the Discussions tab. Include your game version, the Dazed mods you run, and your console.txt if there is an error.
 description=
 description=[hr][/hr]
