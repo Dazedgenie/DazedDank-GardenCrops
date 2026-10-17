@@ -32,5 +32,5 @@ Each vanilla sprite maps to one plant, so any crop can later be swapped for a ha
 
 ## Licence
 
-The code and tools are MIT (see LICENSE). The plant images are cut from Project Zomboid's own crop art, which belongs
-to The Indie Stone, and are not covered by the MIT licence.
+The code and tools are CC BY-NC-SA 4.0 (see LICENSE). The plant images are cut from Project Zomboid's own crop art,
+which belongs to The Indie Stone, and are not covered by that licence.
